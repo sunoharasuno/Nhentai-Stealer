@@ -9,6 +9,8 @@
 using query:
  
  $stuck <args>[query instead] == reverse your stuck/error from each cases vendor  
+ 
+ 
  $stuck regex extract image == show reverse query about args using regex
  $stuck how do I include a PHP script in Python? == will show bout php in python cases
  ```  
