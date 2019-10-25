@@ -5,19 +5,18 @@
 ###### Reverse your code, debug/stuck or fixing them from each vendor using one command  
 ```
  $mafu == help
+ 
+using query:
+ 
  $stuck <args>[query instead] == reverse your stuck/error from each cases vendor  
-
-prefix example:
-
  $stuck regex extract image == show reverse query about args using regex
  $stuck how do I include a PHP script in Python? == will show bout php in python cases
  ```  
- ![](https://i.imgur.com/dbvIHf5.png)
  ## debug using syntax error mssg example:
  ![](https://i.imgur.com/oFUqw8v.png)  
-   
-   
  ```
+or using error mssg:
+ 
  $stuck missing ) after argument list
  ```  
  ![](https://i.imgur.com/O14vvyN.png)
